@@ -1,0 +1,40 @@
+# Dependency directories
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Directories for tools and editors
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+tmp/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Optional npm cache directory
+.npm
+
+# Typescript build directory
+*.tsbuildinfo
+
+# Local dotenv file
+.env.local
+.env.*.local
